@@ -1,17 +1,15 @@
-## Hola, soy Alejandro 👋
-
 Desarrollador full stack y Lead PM en proyectos Scrum, de Tilarán, Guanacaste, Costa Rica.
 Trabajo en el Proceso de Informática de la Municipalidad de Tilarán y estudio Ingeniería en
 Tecnologías de Información y Comunicación Empresarial en la Universidad Invenio.
 
-- 🏛️ En la municipalidad implementé y personalicé la mesa de ayuda institucional sobre GLPI (módulo de integración en Node.js y plugin en PHP) y lidero el módulo de egresos de la plataforma financiera en ASP.NET Core.
-- 🎮 Por mi cuenta desarrollo **World of Malzarath**, un juego de estrategia por turnos en Godot 4.
-- 📫 [LinkedIn](https://www.linkedin.com/in/alejandrorz93)
+- En la municipalidad implementé y personalicé la mesa de ayuda institucional sobre GLPI (módulo de integración en Node.js y plugin en PHP) y lidero el módulo de egresos de la plataforma financiera en ASP.NET Core.
+- Por mi cuenta desarrollo **World of Malzarath**, un juego de estrategia por turnos en Godot 4.
+- [LinkedIn](https://www.linkedin.com/in/alejandrorz93)
 
 ### Stack
 
 - **Backend:** Node.js · Express · C# / .NET (ASP.NET Core) · Python (FastAPI) · Java · PHP
-- **Frontend y móvil:** TypeScript · React · React Native
+- **Frontend y móvil:** TypeScript · HTML · React · React Native · WordPress
 - **Datos:** PostgreSQL / PostGIS · SQL Server · MySQL
 - **DevOps:** Docker · GitHub Actions · SonarQube · Railway
 - **Gestión:** Scrum · Kanban
